@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Mg_fs icon-chevron-left</name>
+   <tag></tag>
+   <elementGuidId>f27bb204-352c-4063-bec0-04ec22ec0c06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pageProfile']/div[2]/div/div/div/div/div[2]/div/form/div[2]/div/div/ul/li/div/div[2]/table/thead/tr/th/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs icon-chevron-left</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pageProfile&quot;)/div[@class=&quot;page-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;pt-5 pb-5&quot;]/div[@class=&quot;auth-box position-static mt-4&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;auth-content&quot;]/form[@class=&quot;js-formValidate js-formHardSubmit&quot;]/div[@class=&quot;form-group line-style mb-4&quot;]/div[@class=&quot;date-wrapper line-style block&quot;]/div[@class=&quot;bootstrap-datetimepicker-widget dropdown-menu usetwentyfour top&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[1]/div[@class=&quot;datepicker&quot;]/div[@class=&quot;datepicker-months&quot;]/table[@class=&quot;table-condensed&quot;]/thead[1]/tr[1]/th[@class=&quot;prev&quot;]/i[@class=&quot;fs icon-chevron-left&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pageProfile']/div[2]/div/div/div/div/div[2]/div/form/div[2]/div/div/ul/li/div/div[2]/table/thead/tr/th/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/thead/tr/th/i</value>
+   </webElementXpaths>
+</WebElementEntity>
